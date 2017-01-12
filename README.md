@@ -14,3 +14,8 @@ This is a Java app, written for JRE version 6.  It requires [RxTx](http://rxtx.q
 
 
   * **1 (21 Aug 2008):** Initial release.
+
+
+### Download
+
+  * [Executable (CrapTerminal.jar)](https://github.com/ianrenton/CrapTerminal/files/702908/CrapTerminal.zip)
